@@ -1,0 +1,4 @@
+../Core/Src/can.c:24:6:CAN_EnqueueTxFrame	24	static
+../Core/Src/can.c:38:6:CAN_DequeueTxFrame	16	static
+../Core/Src/can.c:50:6:CAN_send	64	static
+../Core/Src/can.c:87:6:CAN_process_command	32	static

@@ -1,0 +1,7 @@
+../Core/Src/button.c:27:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/button.c:55:6:btn_matrix_init	16	static
+../Core/Src/button.c:68:6:is_btn_still_pressed	24	static
+../Core/Src/button.c:85:6:turn_btn_matrix_col	24	static
+../Core/Src/button.c:102:6:process_btn_pressed	24	static
+../Core/Src/button.c:117:6:scan_btn_matrix	32	static
+../Core/Src/button.c:148:6:btn_matrix_process	16	static
